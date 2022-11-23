@@ -4,7 +4,7 @@ Ref - <br />
 https://github.com/reactiveui/refit#readme <br />
 https://code-maze.com/using-refit-to-consume-apis-in-csharp/ <br />
 
-![Refit](refit_logo.png)
+![Refit](https://raw.githubusercontent.com/reactiveui/refit/main/refit_logo.png)
 
 ## Refit: The automatic type-safe REST library for .NET Core, Xamarin and .NET
 
