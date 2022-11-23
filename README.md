@@ -8,6 +8,11 @@ https://code-maze.com/using-refit-to-consume-apis-in-csharp/ <br />
 
 ## Refit: The automatic type-safe REST library for .NET Core, Xamarin and .NET
 
+Package Manager :
+```
+PM > NuGet\Install-Package Refit -Version 6.3.2
+```
+
 Refit is a library heavily inspired by Square's
 [Retrofit](http://square.github.io/retrofit) library, and it turns your REST
 API into a live interface:
